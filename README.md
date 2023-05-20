@@ -9,6 +9,7 @@
 2. Go to the src/Boilerplate.Api folder and run ``dotnet run``, or, in visual studio set the api project as startup and run as console or docker (not IIS).
 3. Visit http://localhost:5000/api-docs or https://localhost:5001/api-docs to access the application's swagger.
 
+
 # This project contains:
 - [x] SwaggerUI
 - [x] Dapper
